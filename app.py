@@ -85,7 +85,7 @@ def buildZip(includingJars):
   resp = urlPoolLib.request('GET', downloadLinkBentobox["url"])
   zf.writestr(downloadLinkBentobox["fileName"], resp.data)
   resp.release_conn()
-  zf.write("setup_instructions.txt")
+  zf.write("安装指南.txt")
 
 def get_valid_addons():
   addons = []

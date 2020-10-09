@@ -1,7 +1,7 @@
-**AcidIsland** is a **survival game** where players try to survive and expand their island, surrounded by a **sea of acid**.
+**酸岛**是一个**生存游戏(海岛)**。在这里玩家试图生存并扩大他们的岛屿，而周围是酸性的海洋。
 
-Acid is everywhere. Acid burns everything.
+酸性的海水到处都是，它们灼烧万物
 
-Oh, and rain is acid too.
+噢，这里的雨也是酸的！
 
-Created and maintained by [tastybento](https://github.com/tastybento).
+这个插件由 [tastybento](https://github.com/tastybento). 制作并维护。
